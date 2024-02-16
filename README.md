@@ -3,5 +3,7 @@
 ## 1 Megabyte File
 `head -c 1048576 /dev/random > 1MBfile.dat`
 
+https://raw.githubusercontent.com/speedyftw/testfiles/main/1MBfile.dat
+
 ## 25 Megabyte File
 `head -c 26214400 /dev/random > 25MBfile.dat`
