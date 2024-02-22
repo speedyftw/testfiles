@@ -10,6 +10,11 @@ Generation command: `head -c 1048576 /dev/random > 1MBfile.dat`
 
 Download link: https://raw.githubusercontent.com/speedyftw/testfiles/main/1MBfile.dat
 
+## 5 Megabyte File
+Generation command: `head -c 5000000 /dev/random > 5MBfile.dat`
+
+Download link: https://raw.githubusercontent.com/speedyftw/testfiles/main/5MBfile.dat
+
 ## 25 Megabyte File
 Generation command: `head -c 26214400 /dev/random > 25MBfile.dat`
 
